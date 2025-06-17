@@ -12,11 +12,13 @@ A modern, interactive floor plan visualization and exploration tool built with R
 
 ## Technologies Used
 
-- React 18
-- TypeScript
-- Tailwind CSS
-- Vite
-- Lucide Icons
+- **React 18** – for building dynamic and reusable UI components
+- **Vite** – for a lightning-fast development and build environment
+- **Tailwind CSS** – for utility-first styling
+- **Lucide React** – for clean, customizable icons
+- **TypeScript** – for type-safe development
+- **ESLint** – for linting and code quality
+- **PostCSS & Autoprefixer** – for CSS transformation and browser compatibility
 
 ## Getting Started
 
